@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AJWCROTH
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=project.SCHLIB
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SVCWLBZR
+DocumentUniqueId=
 
 [Document3]
 DocumentPath=SamacSys.PcbLib
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
+DocumentUniqueId=
 
 [SearchPath1]
 Path=C:\Users\embeddeddesigne\Documents\GitHub\RGB_Controller\project\*.*
