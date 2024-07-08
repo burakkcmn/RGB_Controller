@@ -41,6 +41,6 @@ This project is a personal test project to control a 3 channel RGB LED strip usi
 This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-- **Your Name**
+- **Burak KOCAMAN**
   - GitHub: [burakkcmn](https://github.com/burakkcmn)
   - Email: [kocaman.burak.bk@gmail.com](mailto:kocaman.burak.bk@gmail.com)
