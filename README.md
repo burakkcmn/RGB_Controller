@@ -34,8 +34,11 @@ This project is an RGB LED controller using an ESP8266 with PlatformIO. It provi
 ## Installation
 
 1. Clone this repository.
-2. Open the project folder in PlatformIO.
-3. Build and upload the project to your ESP8266 board.
+    ```sh
+    git clone https://github.com/burakkcmn/RGB_Controller.git
+    ```
+3. Open the project folder in PlatformIO.
+4. Build and upload the project to your ESP8266 board.
 
 ## Usage
 
@@ -67,3 +70,10 @@ This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICEN
 ## Contact
 
 For any inquiries or feedback, please contact [Burak KOCAMAN](kocaman.burak.bk@gmail.com).
+
+This README provides a comprehensive overview of your project, including setup instructions, usage details, and code structure. Adjust the content as needed to better fit your specific project requirements.
+
+## Author
+- **Burak KOCAMAN**
+  - GitHub: [burakkcmn](https://github.com/burakkcmn)
+  - Email: [kocaman.burak.bk@gmail.com](mailto:kocaman.burak.bk@gmail.com)
